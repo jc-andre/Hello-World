@@ -5,9 +5,10 @@ Hellow World
 
 This a test in the initiation of a new PL site :)
 
-Link to Google: https://www.google.ca/search?q=data+architecture+diagram&source=lnms&tbm=isch&sa=X&ved=0ahUKEwim5bqdjKXkAhUGDewKHWw6CgEQ_AUIEigB&biw=1280&bih=603
+[Link to Google](https://www.google.ca/search?q=data+architecture+diagram&source=lnms&tbm=isch&sa=X&ved=0ahUKEwim5bqdjKXkAhUGDewKHWw6CgEQ_AUIEigB&biw=1280&bih=603)
 
-https://www.youtube.com/watch?v=vmDDOFXSgAs&list=RDvmDDOFXSgAs&start_radio=1
+![Video](https://www.youtube.com/watch?v=vmDDOFXSgAs&list=RDvmDDOFXSgAs&start_radio=1)
+Format: ![alt text](url)
 
 Test of video appearance
 
